@@ -14,6 +14,6 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 
 [**The React Handbook**](https://www.freecodecamp.org/news/the-react-handbook-b71c27b0a795/)
 
-[**MongoDB vs SQL | Top 7 Most Valuable Differences To Learn**](https://www.educba.com/mongodb-vs-sql/)
+[**MongoDB vs SQL   Top 7 Most Valuable Differences To Learn**](https://www.educba.com/mongodb-vs-sql/)
 
 [**How to build a PWA from scratch with HTML, CSS, and JavaScript**](https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/)
