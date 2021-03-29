@@ -28,3 +28,7 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 [**Why Android developers should pay attention to React Native in 2021**](https://medium.com/codex/why-android-developers-should-pay-attention-to-react-native-in-2021-ae4a3c737167)
 
 [**Public APIs  A Directory of Free Public & Open Rest APIs**](https://public-apis.io/)
+
+[**React Native Express**](https://www.reactnative.express/)
+
+[**Introducing WebSockets: Bringing Sockets to the Web**](https://www.html5rocks.com/en/tutorials/websockets/basics/)
