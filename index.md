@@ -2,6 +2,8 @@
 
 [**Carbon**](https://carbon.now.sh/)
 
+[**Semantic HTML5 Elements Explained**](https://www.freecodecamp.org/news/semantic-html5-elements/#:~:text=Semantic%20HTML%20elements%20are%20those,content%20that%20is%20inside%20them.)
+
 [**Dark Light Mode Swith with CSS Variables**](https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8)
 
 [**How to Deploy a Front End Application with Netlify**](https://www.freecodecamp.org/news/how-to-deploy-your-front-end-app/)
@@ -32,3 +34,5 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 [**React Native Express**](https://www.reactnative.express/)
 
 [**Introducing WebSockets: Bringing Sockets to the Web**](https://www.html5rocks.com/en/tutorials/websockets/basics/)
+
+[**Software Development Life Cycle — The Ultimate Guide [2020]**](https://blog.codegiant.io/software-development-life-cycle-the-ultimate-guide-2020-153d17bb20fb)
