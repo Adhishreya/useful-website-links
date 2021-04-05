@@ -10,6 +10,8 @@
 
 [**How to escape from the async/await hell**](https://devadi.netlify.app/blog/async-await-hell)
 
+[**10 Interview Questions Every JavaScript Developer Should Know**](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+
 [**enaqx/awesome-react**](
 https://github.com/enaqx/awesome-react)A collection of awesome things regarding React ecosystem - enaqx/awesome-react
 
