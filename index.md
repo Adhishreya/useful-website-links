@@ -38,3 +38,7 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 [**Introducing WebSockets: Bringing Sockets to the Web**](https://www.html5rocks.com/en/tutorials/websockets/basics/)
 
 [**Software Development Life Cycle — The Ultimate Guide [2020]**](https://blog.codegiant.io/software-development-life-cycle-the-ultimate-guide-2020-153d17bb20fb)
+
+[**A Real-World GraphQL Tutorial Series by Hasura**](https://hasura.io/learn/)
+
+[**Build fast and production ready apps with React and AWS Amplify**](https://javascript.plainenglish.io/build-fast-and-production-ready-apps-with-react-and-aws-amplify-48a97b5e3bed)
