@@ -42,3 +42,5 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 [**A Real-World GraphQL Tutorial Series by Hasura**](https://hasura.io/learn/)
 
 [**Build fast and production ready apps with React and AWS Amplify**](https://javascript.plainenglish.io/build-fast-and-production-ready-apps-with-react-and-aws-amplify-48a97b5e3bed)
+
+[**Docusaurus    Build optimized websites quickly, focus on your content**](https://docusaurus.io/) 
