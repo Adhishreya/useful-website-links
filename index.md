@@ -45,5 +45,7 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 
 [**Docusaurus    Build optimized websites quickly, focus on your content**](https://docusaurus.io/) 
 
+[**Building a Flask(Python) CRUD API with Cloud Firestore(Firebase) and Deploying on Cloud Run**](https://medium.com/google-cloud/building-a-flask-python-crud-api-with-cloud-firestore-firebase-and-deploying-on-cloud-run-29a10c502877)
+
 ###### DeepLearning
 [**DeepLearning.Ai reference notes**](https://www.deeplearning.ai/ai-notes)
