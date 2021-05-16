@@ -47,5 +47,8 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 
 [**Building a Flask(Python) CRUD API with Cloud Firestore(Firebase) and Deploying on Cloud Run**](https://medium.com/google-cloud/building-a-flask-python-crud-api-with-cloud-firestore-firebase-and-deploying-on-cloud-run-29a10c502877)
 
+[**User Authentication with OAuth 2.0**](https://oauth.net/articles/authentication/) An article that clearly points out the difference between authentication and authorization
+
+
 ###### DeepLearning
 [**DeepLearning.Ai reference notes**](https://www.deeplearning.ai/ai-notes)
