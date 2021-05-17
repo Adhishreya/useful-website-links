@@ -49,6 +49,8 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 
 [**User Authentication with OAuth 2.0**](https://oauth.net/articles/authentication/) An article that clearly points out the difference between authentication and authorization
 
+[**Axios vs Fetch**](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5)
+
 
 ###### DeepLearning
 [**DeepLearning.Ai reference notes**](https://www.deeplearning.ai/ai-notes)
