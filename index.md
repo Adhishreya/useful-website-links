@@ -51,6 +51,7 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 
 [**Axios vs Fetch**](https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b261cdd3af5)
 
+[**11 Useful Custom React Hooks for Your Next Web App**](https://blog.bitsrc.io/11-useful-custom-react-hooks-for-your-next-app-c66307cf0f0c)
 
 ###### DeepLearning
 [**DeepLearning.Ai reference notes**](https://www.deeplearning.ai/ai-notes)
