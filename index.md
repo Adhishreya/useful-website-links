@@ -57,3 +57,8 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 
 ###### DeepLearning
 [**DeepLearning.Ai reference notes**](https://www.deeplearning.ai/ai-notes)
+
+<hr/>
+
+[Technical Interviews](https://technicalinterviews.dev/)
+
