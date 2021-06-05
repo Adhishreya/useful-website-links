@@ -55,6 +55,10 @@ https://github.com/enaqx/awesome-react)A collection of awesome things regarding 
 
 [**Epic React**](https://epicreact.dev/)
 
+[**COMPLETE INTRO TO REACT V5**](https://btholt.github.io/complete-intro-to-react-v5/intro)
+
+[**React Hooks: UseEffect, UseCallback, UseMemo**](https://dev.to/devcord/react-hooks-useeffect-usecallback-usememo-3o42)
+
 ###### DeepLearning
 [**DeepLearning.Ai reference notes**](https://www.deeplearning.ai/ai-notes)
 
